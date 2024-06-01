@@ -1,4 +1,6 @@
 node_modules
 
-*.xml
+misc.xml
+modules.xml
+vcs.xml
 
